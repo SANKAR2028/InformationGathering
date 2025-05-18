@@ -31,7 +31,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### whois.com
 
-![Alt text](img/whois.png)
+![Alt text](whois.png)
 
 ### ping in parrot os example ping facebook.com
 
@@ -39,12 +39,12 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### i2ploaction.com
 
-![Alt text](img/ip2.png)
+![Alt text](ip2.png)
 
 ### https://web.archive.org/ history of the website
 
-![Alt text](img/data.png)
-![Alt text](img/data1.png)
+![Alt text](data.png)
+![Alt text](data1.png)
 
 ### NETCAT :
 
@@ -55,40 +55,40 @@ Host: example.com
 
 ```
 
-![Alt text](img/nc.png)
+![Alt text](nc.png)
 
 ### nmap
-![Alt text](img/nmap.png)
-![Alt text](img/nmap1.png)
+![Alt text](nmap.png)
+![Alt text](nmap1.png)
 ### whatweb
 
-![Alt text](img/whatweb.png)
+![Alt text](whatweb.png)
 
 ### whatweb to connect metasploitable
 
-![Alt text](img/what1.png)
-![Alt text](img/what2.png)
+![Alt text](what1.png)
+![Alt text](what2.png)
 
 ### httprint
-![Alt text](img/httprint.png)
-![Alt text](img/httprint1.png)
-![Alt text](img/httprint2.png)
+![Alt text](httprint.png)
+![Alt text](httprint1.png)
+![Alt text](httprint2.png)
 
 ### Tracing the Location
 
 # sudo traceroute -T www.google.com
 
-![Alt text](img/traceroute1.png)
+![Alt text](traceroute1.png)
 
 # UDP :
 
 # sudo traceroute -U www.google.com
 
-![Alt text](img/traceroute2.png)
+![Alt text](traceroute2.png)
 
 ### ICMP Traceroute:
 sudo traceroute  www.google.com
-![Alt text](img/traceroute2.png)
+![Alt text](traceroute2.png)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
